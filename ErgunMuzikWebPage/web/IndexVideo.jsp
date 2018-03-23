@@ -8,12 +8,12 @@
 <!-- Video -->
 <section class="section-video parallax100" style="background-image: url(images/bg-cover-video-02.jpg);">
     <div class="content-video t-center p-t-225 p-b-250">
-        <span class="tit2 p-l-15 p-r-15">
+        <!--<span class="tit2 p-l-15 p-r-15">
             Discover
-        </span>
+        </span>-->
 
         <h3 class="tit4 t-center p-l-15 p-r-15 p-t-3">
-            Our Video
+            Tanıtım Videomuz
         </h3>
 
         <div class="btn-play ab-center size16 hov-pointer m-l-r-auto m-t-43 m-b-33" data-toggle="modal" data-target="#modal-video-01">

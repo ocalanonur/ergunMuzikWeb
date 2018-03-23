@@ -12,38 +12,38 @@
             <div class="col-sm-6 col-md-4 p-t-50">
                 <!-- - -->
                 <h4 class="txt13 m-b-33">
-                    Contact Us
+                    İletişim
                 </h4>
 
                 <ul class="m-b-70">
                     <li class="txt14 m-b-14">
                         <i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
-                        8th floor, 379 Hudson St, New York, NY 10018
+                        Gazi Mah Çakır Sok, No:3/2 Yenimahalle, Ankara, ANK 06500
                     </li>
 
                     <li class="txt14 m-b-14">
                         <i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>
-                        (+1) 96 716 6879
+                        (+90) 534 895 62 53
                     </li>
 
                     <li class="txt14 m-b-14">
                         <i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
-                        contact@site.com
+                        info@ergunmuzik.com
                     </li>
                 </ul>
 
                 <!-- - -->
                 <h4 class="txt13 m-b-32">
-                    Opening Times
+                    Açık Saatler
                 </h4>
 
                 <ul>
                     <li class="txt14">
-                        09:30 AM – 11:00 PM
+                        08:00 – 20:00
                     </li>
 
                     <li class="txt14">
-                        Every Day
+                        Hafta İçi + Cumartesi
                     </li>
                 </ul>
             </div>
@@ -51,7 +51,7 @@
             <div class="col-sm-6 col-md-4 p-t-50">
                 <!-- - -->
                 <h4 class="txt13 m-b-33">
-                    Latest twitter
+                    Son Tweetler
                 </h4>
 
                 <div class="m-b-25">
@@ -63,14 +63,14 @@
                     </a>
 
                     <p class="txt14 m-b-18">
-                        Activello is a good option. It has a slider built into that displays the featured image in the slider.
+                        Ses sistemimizi Ergün Müzik'ten kiraladık. Tavsiye ediyoruz. Çırak Ailesi...
                         <a href="#" class="txt15">
                             https://buff.ly/2zaSfAQ
                         </a>
                     </p>
 
                     <span class="txt16">
-                        21 Dec 2017
+                        21 Aralık 2017
                     </span>
                 </div>
 
@@ -83,14 +83,14 @@
                     </a>
 
                     <p class="txt14 m-b-18">
-                        Activello is a good option. It has a slider built into that displays
+                        Düğünümüz için verdiği emeklerden dolayı Ergün Müziğe teşekkür ederiz.
                         <a href="#" class="txt15">
                             https://buff.ly/2zaSfAQ
                         </a>
                     </p>
 
                     <span class="txt16">
-                        21 Dec 2017
+                        14 Mart 2018
                     </span>
                 </div>
             </div>
@@ -98,7 +98,7 @@
             <div class="col-sm-6 col-md-4 p-t-50">
                 <!-- - -->
                 <h4 class="txt13 m-b-38">
-                    Gallery
+                    Galeri
                 </h4>
 
                 <!-- Gallery footer -->

@@ -13,7 +13,7 @@
             <div class="wrap_header trans-0-3">
                 <!-- Logo -->
                 <div class="logo">
-                    <a href="index.html">
+                    <a href="index.jsp">
                         <img src="images/icons/logo.png" alt="IMG-LOGO" data-logofixed="images/icons/logo2.png">
                     </a>
                 </div>
@@ -23,7 +23,7 @@
                     <nav class="menu">
                         <ul class="main_menu">
                             <li>
-                                <a href="index.html">Anasayfa</a>
+                                <a href="index.jsp">Anasayfa</a>
                             </li>
 
                             <!--<li>

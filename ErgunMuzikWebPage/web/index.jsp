@@ -19,13 +19,13 @@
         <jsp:include page="Slides.jsp"></jsp:include>
         <jsp:include page="Welcome.jsp"></jsp:include>
         <jsp:include page="Intro.jsp"></jsp:include>
-        <jsp:include page="OurMenu.jsp"></jsp:include>
+        <%--<jsp:include page="OurMenu.jsp"></jsp:include>
         <jsp:include page="Events.jsp"></jsp:include>
-        <jsp:include page="Booking.jsp"></jsp:include>
-        <jsp:include page="Reviews.jsp"></jsp:include>
+        <jsp:include page="Booking.jsp"></jsp:include>--%>
         <jsp:include page="IndexVideo.jsp"></jsp:include>
-        <jsp:include page="Blogs.jsp"></jsp:include>   
-        <jsp:include page="SignUp.jsp"></jsp:include>
+        <jsp:include page="Reviews.jsp"></jsp:include>
+        <%--<jsp:include page="Blogs.jsp"></jsp:include>   
+        <jsp:include page="SignUp.jsp"></jsp:include>--%>
         <jsp:include page="Footer.jsp"></jsp:include>
         <jsp:include page="UnknownDivs.jsp"></jsp:include>
         
